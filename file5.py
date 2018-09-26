@@ -1,3 +1,3 @@
-t=int(input())
-o=int(input())
-print t**o
+t=(input())
+o=(input())
+print (t**o)
